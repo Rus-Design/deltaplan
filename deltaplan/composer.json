@@ -1,0 +1,17 @@
+{
+  "name": "vendor/deltaplan",
+  "autoload": {
+    "files": [
+      "src/DeltaplanApi.php"
+    ]
+  },
+  "authors": [
+    {
+      "name": "Andrey U",
+      "email": "info@rus-design.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.4"
+  }
+}
